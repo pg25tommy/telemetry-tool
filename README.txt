@@ -11,7 +11,7 @@
 ---
 
 ### **Download/Install**
-- Clone the repository: [GitHub Repository](https://github.com/vfs-sct/a1-3-telemetry-system-pg25tommy.git)
+- Clone the repository
 - [Download Zip](https://github.com/vfs-sct/a1-3-telemetry-system-pg25tommy/archive/refs/heads/main.zip)
 - Open the files in Visual Studio Code
 - Launch the project using Live Server
