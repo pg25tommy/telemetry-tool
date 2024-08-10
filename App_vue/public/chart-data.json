@@ -1,0 +1,36 @@
+{
+  "chart1Data": {
+    "data": [["Type", "Number"], ["Player Kills", 120], ["Enemy Kills", 200]],
+    "options": {
+      "title": "Kills",
+      "colors": ["#ff7043", "#66a3ff"],
+      "legend": { "position": "bottom" }
+    }
+  },
+  "chart2Data": {
+    "data": [["Session Length", "Hours"], ["Short (<1h)", 1000], ["Long (>1h)", 1170]],
+    "options": {
+      "title": "Time Spent In Game",
+      "pieHole": 0.4,
+      "colors": ["#99ff99", "#ffcc99"]
+    }
+  },
+  "chart3Data": {
+    "data": [["Age Group", "Number of Users"], ["18-24", 400], ["25-34", 600], ["35-44", 300]],
+    "options": {
+      "title": "User Details by Age Group",
+      "bar": { "groupWidth": "95%" },
+      "legend": { "position": "none" },
+      "colors": ["#ffcc00"]
+    }
+  },
+  "chart4Data": {
+    "data": [["Week", "Retention Rate"], ["Week 1", 75], ["Week 2", 65], ["Week 3", 55]],
+    "options": {
+      "title": "Player Retention Over Weeks",
+      "curveType": "function",
+      "legend": { "position": "bottom" },
+      "colors": ["#66ff66"]
+    }
+  }
+}
